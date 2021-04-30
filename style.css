@@ -32,7 +32,7 @@ a{
 .logo{
     color: rgb(197, 191, 191);
     text-shadow: .5px .3px white;
-    margin-top: 10;
+    margin-top: 7;
     padding-right: 15;
     font-size:33;
     letter-spacing: 1;
@@ -72,7 +72,7 @@ a{
 }
 .btn{    padding-right: 30;
 
-    margin-top: 130;
+    margin-top: 140;
  }
  button{    transition: 5s;
     border-radius:25px;
