@@ -117,7 +117,15 @@ box-shadow: 2px 2px rgb(219, 21, 21);
         text-align: center;
         
     }
+logo{
+    color: rgb(197, 191, 191);
+    text-shadow: .5px .3px white;
+    margin-top: 5;
+    padding-right: 15;
+    font-size:33;
+    letter-spacing: 1;
 
+}
     .bgtext{
          color: black;
         font-size: 27;
@@ -127,7 +135,7 @@ box-shadow: 2px 2px rgb(219, 21, 21);
     
 .btn{    padding-right: 30;
 
-    margin-top: 210;
+    margin-top: 220;
  }
     
     
